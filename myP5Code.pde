@@ -5,7 +5,7 @@ void setup() {
 
 //🎯Varaible Declarations Go Here
 var x = 200;
-var y = 100;
+var y = 200;
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
